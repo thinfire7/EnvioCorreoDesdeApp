@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="OpcionesEntidad">
+        <item>Consultar cantidad de infectados</item>
+        <item>Reporte de contagios confirmados</item>
+    </string-array>
+</resources>

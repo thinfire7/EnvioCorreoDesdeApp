@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="OpcionesClinica">
+        <item>Enviar acciones a tomar</item>
+        <item>Reporte sintomas de usuarios</item>
+        <item>Cambiar estado de usuario</item>
+    </string-array>
+</resources>

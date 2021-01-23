@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="OpcionesUsuario">
+        <item>Mi historial de ubicaciones</item>
+        <item>Reportar mis sintomas</item>
+        <item>Tazas de contagio por localidades</item>
+        <item>Consultar estado</item>
+    </string-array>
+
+</resources>

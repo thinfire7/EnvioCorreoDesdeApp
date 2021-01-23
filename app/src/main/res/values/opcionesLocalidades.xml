@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Android_Spinner_Example">
+        <item>Localidad:</item>
+        <item>Usaquen</item>
+        <item>Chapinero</item>
+        <item>Santa Fe</item>
+        <item>San Cristobal</item>
+        <item>Usme</item>
+        <item>Tunjuelito</item>
+        <item>Bosa</item>
+        <item>Kennedy</item>
+        <item>Fontibon</item>
+        <item>Engativa</item>
+        <item>Suba</item>
+        <item>Barrios Unidos</item>
+        <item>Teusaquillo</item>
+        <item>Los Martires</item>
+        <item>Antonio Nariño</item>
+        <item>Puente Aranda</item>
+        <item>La Candelaria</item>
+        <item>Rafael Uribe Uribe</item>
+        <item>Ciudad Bolivar</item>
+        <item>Sumapaz</item>
+    </string-array>
+</resources>

@@ -1,0 +1,37 @@
+proyecto/covid/PaginaEntidad.java
+ proyecto.covid.PaginaEntidad
+ proyecto.covid.PaginaEntidad$1
+proyecto/covid/PaginaPrincipal.java
+ proyecto.covid.PaginaPrincipal
+ proyecto.covid.PaginaPrincipal$1
+ proyecto.covid.PaginaPrincipal$2
+ proyecto.covid.PaginaPrincipal$3
+proyecto/covid/Utilidades/Utilidades.java
+ proyecto.covid.Utilidades.Utilidades
+proyecto/covid/BuildConfig.java
+ proyecto.covid.BuildConfig
+proyecto/covid/HistorialUbicaciones.java
+ proyecto.covid.HistorialUbicaciones
+proyecto/covid/MainActivity.java
+ proyecto.covid.MainActivity
+proyecto/covid/DataBase/LugaresVisitados.java
+ proyecto.covid.DataBase.LugaresVisitados
+proyecto/covid/DataBase/Usuarios.java
+ proyecto.covid.DataBase.Usuarios
+proyecto/covid/Registro.java
+ proyecto.covid.Registro
+ proyecto.covid.Registro$1
+proyecto/covid/ConexionSQLiteHelper.java
+ proyecto.covid.ConexionSQLiteHelper
+proyecto/covid/MiUbicacionGoogleMaps.java
+ proyecto.covid.MiUbicacionGoogleMaps
+proyecto/covid/JavaMailAPI.java
+ proyecto.covid.JavaMailAPI
+ proyecto.covid.JavaMailAPI$1
+proyecto/covid/EnviarAcciones.java
+ proyecto.covid.EnviarAcciones
+proyecto/covid/PaginaClinica.java
+ proyecto.covid.PaginaClinica
+ proyecto.covid.PaginaClinica$1
+proyecto/covid/CambioEstadoUsuario.java
+ proyecto.covid.CambioEstadoUsuario

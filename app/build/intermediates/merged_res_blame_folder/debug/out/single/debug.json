@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_enviar_acciones.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\layout\\activity_enviar_acciones.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_historial_ubicaciones.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\layout\\activity_historial_ubicaciones.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mi_ubicacion_google_maps.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\layout\\activity_mi_ubicacion_google_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pagina_clinica.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\layout\\activity_pagina_clinica.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pagina_principal.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\layout\\activity_pagina_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pagina_entidad.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\layout\\activity_pagina_entidad.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cambio_estado_usuario.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\layout\\activity_cambio_estado_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registro.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\layout\\activity_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_consulta_base_de_datos.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\layout\\activity_consulta_base_de_datos.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Covid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Covid</string>
+    <string name="title_activity_mi_ubicacion_google_maps">Map</string>
+</resources>
